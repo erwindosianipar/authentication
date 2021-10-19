@@ -1,0 +1,18 @@
+{
+    "environment": {
+        "mode": "development"
+    },
+    "server" : {
+        "port": 3000
+    },
+    "database": {
+        "host": "localhost",
+        "port": "5432",
+        "user": "postgres",
+        "pass": "password",
+        "name": "authentication"
+    },
+    "secret": {
+        "key": "v3ry53cr3tk3yk3y!"
+    }
+}
